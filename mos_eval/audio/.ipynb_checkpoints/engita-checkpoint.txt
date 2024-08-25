@@ -1,0 +1,384 @@
+          <tr>
+            <td style="text-align: left"><strong>1</strong>.  Polly Sat Up Very Straight, And Whisked Off The Tears Quickly.</td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_126133_000019_000000.gt.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_126133_000019_000000.xtts.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_126133_000019_000000.our.flac"></audio>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left"><strong>2</strong>.  To Suppose That The Object Of This Work Is To Aid In Effecting Such A Substitution As That, Is Entirely To Mistake Its Nature And Design.</td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/7021_79730_000044_000001.gt.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/7021_79730_000044_000001.xtts.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/7021_79730_000044_000001.our.flac"></audio>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left"><strong>3</strong>.  Frank Read English Slowly, And The More He Read About This Divorce Case, The Angrier He Grew.</td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_134500_000001_000004.gt.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_134500_000001_000004.xtts.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_134500_000001_000004.our.flac"></audio>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left"><strong>4</strong>.  The Rich Soil Yields Heavy Harvests; The Dry, Bracing Climate And The Smoothness Of The Land Make Labor Easy For Men And Beasts.</td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_134493_000003_000001.gt.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_134493_000003_000001.xtts.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_134493_000003_000001.our.flac"></audio>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left"><strong>5</strong>.  As Wealth Accumulates On His Hands, His Own Unaided Effort Will Not Avail To Sufficiently Put His Opulence In Evidence By This Method.</td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/3570_5694_000011_000001.gt.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/3570_5694_000011_000001.xtts.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/3570_5694_000011_000001.our.flac"></audio>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left"><strong>6</strong>.  "Weren'T You Awfully Surprised?" Cried Percy; "Say, Polly, Awfully?"</td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_126133_000027_000000.gt.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_126133_000027_000000.xtts.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_126133_000027_000000.our.flac"></audio>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left"><strong>7</strong>.  The Air And The Earth Are Curiously Mated And Intermingled, As If The One Were The Breath Of The Other.</td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_134493_000004_000003.gt.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_134493_000004_000003.xtts.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_134493_000004_000003.our.flac"></audio>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left"><strong>8</strong>.  "She'S The Cunningest Little Thing I Ever Saw," Said Mrs Whitney, Enthusiastically, Afterward, Aside To Mr King.</td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_126133_000054_000000.gt.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_126133_000054_000000.xtts.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_126133_000054_000000.our.flac"></audio>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left"><strong>9</strong>.  You Will Have A Very Pleasant Time, I Am Sure; Because You Never Quarrel.</td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/7021_79740_000010_000005.gt.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/7021_79740_000010_000005.xtts.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/7021_79740_000010_000005.our.flac"></audio>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left"><strong>10</strong>.  He Hated Everything Like Slavery, And As Young As He Was, He Had Already Made Five Attempts To Escape.</td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/8463_287645_000030_000001.gt.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/8463_287645_000030_000001.xtts.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/8463_287645_000030_000001.our.flac"></audio>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left"><strong>11</strong>.  Or, If Not, Thou Strange And Elfish Child, Whence Didst Thou Come?"</td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/1221_135766_000026_000005.gt.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/1221_135766_000026_000005.xtts.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/1221_135766_000026_000005.our.flac"></audio>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left"><strong>12</strong>.  Because, As That Time Cover Story Suggests, We Still Haven'T Caught Up With Verne.</td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/8463_294825_000030_000000.gt.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/8463_294825_000030_000000.xtts.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/8463_294825_000030_000000.our.flac"></audio>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left"><strong>13</strong>.  "Oh, You Don'T Know Alexandra As Well As You Think You Do!</td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_134500_000024_000001.gt.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_134500_000024_000001.xtts.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_134500_000024_000001.our.flac"></audio>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left"><strong>14</strong>.  It Will Go Away, And Things Will Be Just As They Used To. I Wish You Were A Catholic.</td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_134500_000036_000005.gt.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_134500_000036_000005.xtts.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_134500_000036_000005.our.flac"></audio>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left"><strong>15</strong>.  Oh, There'S A Good Boy!" She Turned Her Head To Him With A Quick, Bright Smile.</td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_134493_000017_000001.gt.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_134493_000017_000001.xtts.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_134493_000017_000001.our.flac"></audio>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left"><strong>16</strong>.  It'S Exciting To See Everything Growing So Fast,--And To Get The Grass Cut!</td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_134500_000007_000002.gt.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_134500_000007_000002.xtts.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_134500_000007_000002.our.flac"></audio>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left"><strong>17</strong>.  The Question Is, Which Of The Two Methods Will Most Effectively Reach The Persons Whose Convictions It Is Desired To Affect.</td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/3570_5695_000005_000004.gt.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/3570_5695_000005_000004.xtts.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/3570_5695_000005_000004.our.flac"></audio>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left"><strong>18</strong>.  These, Again, Appeared Larger And Much Softer Than European Lice.</td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/5142_36600_000010_000006.gt.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/5142_36600_000010_000006.xtts.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/5142_36600_000010_000006.our.flac"></audio>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left"><strong>19</strong>.  Just About This Time, In The Clear Blue Overhead, A Green Winged Teal Was Beating His Way Above The Treetops, Making For The Stream With The Fear Of Death At His Heart.</td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/7176_88083_000009_000000.gt.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/7176_88083_000009_000000.xtts.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/7176_88083_000009_000000.our.flac"></audio>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left"><strong>20</strong>.  Not That I Could Make A Better One!</td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/4992_41797_000008_000002.gt.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/4992_41797_000008_000002.xtts.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/4992_41797_000008_000002.our.flac"></audio>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left"><strong>21</strong>.  "Yes, We Are... Certainly... ," I Replied Evasively, "But After We Make A Detour."</td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/8463_294828_000038_000000.gt.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/8463_294828_000038_000000.xtts.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/8463_294828_000038_000000.our.flac"></audio>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left"><strong>22</strong>.  Could He Rise From Beneath It, He Would Not Know The Country Under Which He Has Been Asleep.</td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_134493_000002_000002.gt.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_134493_000002_000002.xtts.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_134493_000002_000002.our.flac"></audio>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left"><strong>23</strong>.  "Doctor Of What?" Asked Mrs Carey.</td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/4992_41797_000009_000000.gt.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/4992_41797_000009_000000.xtts.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/4992_41797_000009_000000.our.flac"></audio>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left"><strong>24</strong>.  There Never Was Anybody Needed You So Much As She Does,--Never."</td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/4992_41797_000025_000007.gt.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/4992_41797_000025_000007.xtts.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/4992_41797_000025_000007.our.flac"></audio>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left"><strong>25</strong>.  "But Others Jumped To Their Feet With Their Mead Horns In Their Hands. Thirty Men, One After Another, Raised Their Horns And Said:</td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/5142_33396_000010_000000.gt.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/5142_33396_000010_000000.xtts.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/5142_33396_000010_000000.our.flac"></audio>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left"><strong>26</strong>.  But Here He Was At A Terrible Disadvantage As Compared With The Owls, Hawks, And Eagles.</td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/7176_88083_000006_000003.gt.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/7176_88083_000006_000003.xtts.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/7176_88083_000006_000003.our.flac"></audio>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left"><strong>27</strong>.  His Feet Were Red, His Long Narrow Beak, With Its Saw Toothed Edges And Sharp Hooked Tip, Was Bright Red.</td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/7176_88083_000005_000004.gt.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/7176_88083_000005_000004.xtts.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/7176_88083_000005_000004.our.flac"></audio>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left"><strong>28</strong>.  Our Baggage Was Immediately Carried To The Deck Of The Frigate. I Rushed Aboard.</td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/8463_294828_000049_000000.gt.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/8463_294828_000049_000000.xtts.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/8463_294828_000049_000000.our.flac"></audio>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left"><strong>29</strong>.  "So I Set Guards Over Every One In That House.</td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/5142_33396_000052_000000.gt.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/5142_33396_000052_000000.xtts.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/5142_33396_000052_000000.our.flac"></audio>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left"><strong>30</strong>.  I Always Had It In My Mind To Leave, But I Was 'Jubus', Dubious? Of Starting.</td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/8463_287645_000024_000001.gt.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/8463_287645_000024_000001.xtts.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/8463_287645_000024_000001.our.flac"></audio>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left"><strong>31</strong>.  "Oh! It Is Better To Live On The Sea And Let Other Men Raise Your Crops And Cook Your Meals.</td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/5142_33396_000016_000000.gt.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/5142_33396_000016_000000.xtts.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/5142_33396_000016_000000.our.flac"></audio>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left"><strong>32</strong>.  "So Her Mother Was Willing?" Asked His Daughter, Curiously.</td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_126133_000056_000000.gt.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_126133_000056_000000.xtts.flac"></audio>
+            </td>
+            <td style="text-align: center">
+              <audio style="width: 100px;" controls="" preload="none" src="./audio/eng_ita/237_126133_000056_000000.our.flac"></audio>
+            </td>
+          </tr>
